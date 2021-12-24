@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+#image{
+max-width: 100%;
+display: block;
+height: auto;
+margin: 40px auto;
+}
+
+
+#title{
+text-align: center;
+}
+
+#tribute-info{
+    width: 300;
+    text-align: center;
+}
+
+#img-caption{
+    text-align: center;
+}
+
+#lista{
+    
+}
